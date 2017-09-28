@@ -1,21 +1,38 @@
-body {
-    background-color: #1FBDD6; 
-}
-
-h1 {
-    color: black;
+body 
+{
+    background-color: #79B6ED;
     text-align: center;
 }
-td, th {
-    font-family: helvetica;
-    font-size: 2em;
-    color:black;
-}
-p {
-    font-family: helvetica sans-serif;
-    font-size: 10px;
+
+
+tds
+{
+    padding-top: 25px;
 }
 
-#1FBDD6
 
-#0ABFDB
+td
+{
+    font-family: sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+
+td2
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.7em;
+}
+
+td1
+{
+    font-family: cursive;
+    font-size: 1.3em;
+    text-align: center;
+}
+th
+{
+     font-size: 1.7em;
+     text-align-last: center;
+}

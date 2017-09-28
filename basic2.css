@@ -1,17 +1,47 @@
-body {
-    background-color: #F79696     ; 
+body 
+{
+    background-color: #F79696;
+    text-align: center;
 }
+
 
 h1 {
     color: black;
     text-align: center;
+    font-size: 1.9em
 }
-td, th {
-    font-family: helvetica;
-    font-size: 2em;
-    color:black;
+
+
+td2
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.7em
 }
-p {
-    font-family: helvetica sans-serif;
-    font-size: 10px;
+
+
+table
+{
+    width: 100%;
+}
+
+
+td
+{
+    font-family: sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+
+td3
+{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+th
+{
+     font-size: 1.7em;
+     text-align-last: center;
 }

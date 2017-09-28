@@ -1,17 +1,77 @@
-body {
-    background-color: #A0F796 ; 
+body 
+{
+    background-color: #A0F796;
 }
+
 
 h1 {
     color: black;
     text-align: center;
+    font-size: 1.9em
 }
-td, th {
-    font-family: helvetica;
-    font-size: 2em;
-    color:black;
+
+
+table
+{
+    width: 100%;
 }
-p {
-    font-family: helvetica sans-serif;
-    font-size: 10px;
+
+
+td
+{
+    font-family: sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+
+td2
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.7em
+}
+
+
+td3
+{
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+}
+
+th
+{
+     font-size: 1.7em;
+     text-align-last: center;
+}
+
+th2
+{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 3em;
+    padding-right: 90px;
+}
+
+th3
+{
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 3em;
+    padding-left: 145px;
+}
+
+img
+{
+    width: 400px;
+    height: 350px;
+    text-align: left;
+}
+
+td4
+{
+    font-family: sans-serif;
+    font-size: 3em;
+    text-align: left;
+    padding-right: 35px;
 }
